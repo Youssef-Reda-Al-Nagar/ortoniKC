@@ -1,0 +1,18 @@
+# 💫 About Me:
+🎓 I'm a student at the Faculty of<br>Computers and Information.<br><br>🖥 Currently learning Front-End Development and improving my skills .<br><br>🚀 I recently built my first Front-End<br>project, and I'm continuously working on new projects to improve my skills.<br><br>📚 I'm interested in Web Development and I'm always learning and exploring new technologies.<br><br>Skills & Technologies :<br><br>  • HTML<br><br>  • CSS<br><br>  • Git & GitHub<br><br>  • Currently learning Front-End Development<br><br>🎯My Goal<br><br>To become a professional Full-Stack Developer and build modern, responsive, and user-friendly web applications.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Youssef Reda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssef_al_najjar_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Youssef Reda) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=youssef-reda-al-nagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=youssef-reda-al-nagar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=youssef-reda-al-nagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=youssef-reda-al-nagar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
